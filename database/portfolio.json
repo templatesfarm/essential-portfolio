@@ -1,0 +1,171 @@
+{
+  "personalInfo": {
+    "displayName": "",
+    "name": "Rahul Sharma",
+    "contactNumber": "9876543210",
+    "email": "rahulsharma@gmail.com",
+    "socialMedia": {
+      "linkedIn": "https://www.linkedin.com/",
+      "github": "https://github.com/",
+      "youtube": "",
+      "xdotcom": "https://twitter.com/",
+      "instagram": "",
+      "facebook": ""
+    },
+    "resumeName": "RahulSharma-CV.pdf",
+    "gender": "Male"
+  },
+  "heroInfo": {
+    "displayName": "",
+    "message": "Hey, I am Rahul.",
+    "introduction": "Senior DevOps Engineer",
+    "description": "A highly skilled DevOps Engineer with over 6 years of experience in automating, optimizing, and securing cloud-based infrastructures. Passionate about CI/CD pipelines, Kubernetes, and cloud-native development, ensuring high availability, security, and cost-efficient deployments."
+  },
+  "skillsInfo": {
+    "displayName": "Specialization",
+    "skills": [
+      {
+        "id": "1740412132457",
+        "name": "AWS",
+        "rating": 8
+      },
+      {
+        "id": "1740412144223",
+        "name": "Google Cloud Platform (GCP)",
+        "rating": 6.5
+      },
+      {
+        "id": "1740412154040",
+        "name": "Jenkins",
+        "rating": 8.5
+      },
+      {
+        "id": "1740412161440",
+        "name": "GitHub Actions",
+        "rating": 9
+      },
+      {
+        "id": "1740412169690",
+        "name": "Docker",
+        "rating": 7
+      },
+      {
+        "id": "1740412180506",
+        "name": "Prometheus & Grafana",
+        "rating": 8.5
+      },
+      {
+        "id": "1740412190690",
+        "name": "AM, Security Groups, VPC, WAF",
+        "rating": 9
+      },
+      {
+        "id": "1740412197657",
+        "name": "Bash, Python, PowerShell",
+        "rating": 7
+      },
+      {
+        "id": "1740412206523",
+        "name": "Agile & Scrum Methodologies",
+        "rating": 8
+      }
+    ],
+    "skillAnimationType": "moving-animation"
+  },
+  "achievementsInfo": {
+    "displayName": "Achievements",
+    "listOfAchievements": [
+      {
+        "id": "1740412278124",
+        "text": "Published Research Paper on Cloud Security – Featured in a leading tech journal.",
+        "type": "other"
+      },
+      {
+        "id": "1740412334607",
+        "text": "AWS Certified Solutions Architect – Expertise in cloud infrastructure.",
+        "type": "certificate"
+      },
+      {
+        "id": "1740412336605",
+        "text": "Secured a Top 5 position in a global DevOps hackathon, competing against 500+ participants in designing an optimized cloud deployment strategy.",
+        "type": "award"
+      }
+    ]
+  },
+  "projectsInfo": {
+    "displayName": "Timeline",
+    "projects": [
+      {
+        "timeline": "2023 – Present",
+        "projectName": "Cloud Automation & CI/CD Deployment",
+        "headline1": "I led the design and implementation of a fully automated AWS cloud infrastructure, reducing deployment times by 70% and improving system efficiency.",
+        "headline2": "I successfully managed a team of 10 DevOps Engineers, ensuring seamless cloud migrations and DevSecOps practices.",
+        "designation": "Senior DevOps Engineer",
+        "link": {
+          "linkText": "Link",
+          "linkUrl": "https://originui.com/badge"
+        },
+        "skills": "AWS, Azure, Google Cloud, Docker, Kubernetes, Terraform, CloudFormation",
+        "companyName": "Amazon",
+        "images": [
+          {
+            "fileName": "do1.png",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/essential-portfolio/master/images/do1.png"
+          },
+          {
+            "fileName": "do4.png",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/essential-portfolio/master/images/do4.png"
+          },
+          {
+            "fileName": "do5.png",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/essential-portfolio/master/images/do5.png"
+          }
+        ]
+      },
+      {
+        "timeline": "2019 – 2023",
+        "projectName": "Multi-Cloud Infrastructure & Automation",
+        "headline1": "I built and optimized cloud environments on AWS, Azure, and Google Cloud, improving deployment efficiency by 60%.",
+        "headline2": "I led a cross-functional team of 8 engineers, implementing cost-effective cloud solutions.",
+        "designation": "DevOps Engineer",
+        "link": {
+          "linkText": "Link",
+          "linkUrl": "https://originui.com/badge"
+        },
+        "skills": "CI/CD, Jenkins, GitHub Actions, Grafana, DevSecOps, Infrastructure Automation, Python, Security Compliance",
+        "companyName": "TCS (Tata Consultancy Services)",
+        "images": [
+          {
+            "fileName": "do2.png",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/essential-portfolio/master/images/do2.png"
+          },
+          {
+            "fileName": "do3.png",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/essential-portfolio/master/images/do3.png"
+          }
+        ]
+      }
+    ]
+  },
+  "qualificationInfo": {
+    "displayName": "Qualifications",
+    "qualifications": [
+      {
+        "timeline": " 2013 – 2017",
+        "courseName": "Bachelor’s Degree in Computer Science",
+        "instituteName": " Indian Institute of Technology (IIT), Delhi",
+        "specializedIn": "Cloud Computing, System Architecture, DevOps Automation",
+        "yearPassout": "2017",
+        "headline1": "I specialized in cloud computing and system design, working on container orchestration using Kubernetes.",
+        "headline2": "I contributed to research on microservices architecture, later published in a reputed journal.",
+        "cgpa": "9.2",
+        "link": {
+          "linkText": "",
+          "linkUrl": ""
+        },
+        "images": [],
+        "rank": "3"
+      }
+    ]
+  }
+}
